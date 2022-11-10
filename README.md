@@ -4,4 +4,4 @@
 
 ### Logan Barnhart
 
-PascalVOC is a dataset that was used in a copetition for object detection. We're going to explore it a bit!
+PascalVOC is a dataset that was originally used in a competition for object detection back in 2007. We're going to explore it a bit!
