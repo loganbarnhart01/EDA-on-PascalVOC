@@ -1,7 +1,5 @@
-# Biweekly Report 6
-
 ## EDA on PascalVOC
 
-### Logan Barnhart
+While learning about early object detection models I was introduced to the PascalVOC dataset. The dataset was originally compiled in 2007, so still the early days of object detection. When we get to visualizing the bounding boxes we can see how far object detection has come!
 
-PascalVOC is a dataset that was originally used in a competition for object detection back in 2007. We're going to explore it a bit!
+* `BW_Report_6.ipynb` is the notebook containing the EDA.
